@@ -1,6 +1,6 @@
 Thank you for your interest in contributing to FERMO! We welcome and appreciate all contributions.
 
-All contributors, maintainers, and participants of the MITE initiative are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md). 
+All contributors, maintainers, and participants of the FERMO projects are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md). 
 
 This document is organized as follows:
 
@@ -49,7 +49,7 @@ To contribute code, follow these steps. For repository-specific details, refer t
 The [FERMO](https://github.com/mmzdouc/fermo) repository contains the FERMO GUI.
 As a web application, unit testing is less strictly enforced. However, a local rebuild of the Docker container is required before submitting a pull request.
 
-### MITE Web Portal
+### fermo core
 
-The [fermo_core](https://github.com/mite-standard/mite_web) repository contains the code for FERMO backend processing pipeline.
+The [fermo_core](https://github.com/mmzdouc/fermo_core) repository contains the code for FERMO backend processing pipeline.
 To maintain the integrity of the project, all new functionality must be unit tested.
