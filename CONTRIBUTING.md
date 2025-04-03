@@ -22,7 +22,7 @@ To contribute code, follow these steps. For repository-specific details, refer t
 1. [Create a fork](https://help.github.com/articles/fork-a-repo) using your GitHub account (or an organization you belong to).
 2. [Clone your fork](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your local machine.
 3. Install `hatch` using one of the recommended methods.
-4. Install the package using `hatch env crate`
+4. Install the package using `hatch env create`
 5. Initialize `pre-commit` with `hatch run pre-commit install`
 6. Make changes to the code
 7. Test that your code passes quality assurance by running `pytest`

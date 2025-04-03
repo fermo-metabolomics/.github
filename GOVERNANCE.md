@@ -16,7 +16,6 @@ Its key responsibilities include:
 - Maintaining the availability and functionality of the FERMO web portal.
 - Managing the continued development of FERMO and related repositories.
 
-
 ### Membership
 
 - Membership to the Governing Body is requested by contacting one of its members.
@@ -47,6 +46,12 @@ New members of the FERMO Governing Body will:
 #### Previous Members
 
 We're a new team and don't have any yet!
+
+## Publications / Attribution
+
+- All members of the FERMO Governing Body are automatically listed as authors on FERMO-related publications.
+- All who contributed in code since the last publication, regardless of the size of their contributions, are invited to be co-authors on the next FERMO publication.
+
 
 ## Bootstrapping governance
 
