@@ -22,7 +22,7 @@ Its key responsibilities include:
 - Membership to the Governing Body is requested by contacting one of its members.
 - Membership is granted at the discretion of the existing FERMO Governing Body through a majority vote.
 - Members must join and participate in the [FERMO Metabolomics Slack](https://fermometabolomics.slack.com/).
-- Members must be listed alphabetically by last name [below](#members).
+- Members must be listed alphabetically by last name [below](#members-in-alphabetical-order).
 
 #### Member Onboarding
 
@@ -37,8 +37,9 @@ New members of the FERMO Governing Body will:
 - Members may request removal at any time.
 - Members who violate the [Code of Conduct](CODE_OF_CONDUCT.md) may be proposed for removal by a Governing Body member.
 
-#### Members
+#### Members (in alphabetical order)
 
+- Hannah E. Augustijn (@haugustijn, https://orcid.org/0000-0002-1862-6699)
 - Justin J. J. van der Hooft (@justinjjvanderhooft, https://orcid.org/0000-0002-9340-5511)
 - Marnix H. Medema (@marnixmedema, https://orcid.org/0000-0002-2191-2821)
 - Mitja M. Zdouc (@mmzdouc, https://orcid.org/0000-0001-6534-6609)
