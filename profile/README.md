@@ -1,12 +1,29 @@
-## Hi there 👋
+# Overview
 
-<!--
+Welcome to the FERMO Metabolomics Organization!
 
-**Here are some ideas to get you started:**
+This Organization oversees the development of FERMO, a dashboard for metabolomcis data analysis and orthogonal data integration.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For more information on FERMO, see our [homepage](https://fermo.bioinformatics.nl/).
+
+## Resources
+
+This page provides documents that regulate collaboration within the FERMO project.
+These guidelines apply to all repositories governed by FERMO Metabolomics.
+
+- [📜Code of Conduct](../CODE_OF_CONDUCT.md): guidelines for interacting with the project and its contributors.
+- [🤝Contributing](../CONTRIBUTING.md): outline of modes and terms of contributions to FERMO repositories.
+- [🏛Governance](../GOVERNANCE.md): description of governance, roles, responsibilities, and attribution.
+- [👥Discussion](https://github.com/orgs/fermo-metabolomics/discussions): a discussion board for interaction with the project.
+
+## Repository Content
+
+This page organizes several repositories associated to the MITE Data Standard:
+
+
+| Name                                                | Description        | Zenodo Badge | PyPI Badge                                                                                   |
+|-----------------------------------------------------|--------------------| ------------ |----------------------------------------------------------------------------------------------|
+| [FERMO](https://github.com/mmzdouc/fermo)           | GUI                | [![DOI](https://zenodo.org/badge/580868123.svg)](https://doi.org/10.5281/zenodo.7565700)   | N/A                                                                                          |
+| [fermo_core](https://github.com/mmzdouc/fermo_core) | Processing backend | [![DOI](https://zenodo.org/badge/671395100.svg)](https://doi.org/10.5281/zenodo.11259126)   | [![PyPI version](https://badge.fury.io/py/fermo-core.svg)](https://badge.fury.io/py/fermo-core) |
+
+
