@@ -24,8 +24,8 @@ This page organizes several repositories associated to the MITE Data Standard:
 
 | Name                                                           | Description        | Zenodo Badge                                                                               | PyPI Badge                                                                                      |
 |----------------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| [*FERMO*](https://github.com/mmzdouc/fermo)                    | GUI                | [![DOI](https://zenodo.org/badge/580868123.svg)](https://doi.org/10.5281/zenodo.7565700)   | N/A                                                                                             |
-| [fermo_core](https://github.com/mmzdouc/fermo_core)            | Processing backend | [![DOI](https://zenodo.org/badge/671395100.svg)](https://doi.org/10.5281/zenodo.11259126)  | [![PyPI version](https://badge.fury.io/py/fermo-core.svg)](https://badge.fury.io/py/fermo-core) |
+| [*FERMO*](https://github.com/fermo-metabolomics/fermo)                    | GUI                | [![DOI](https://zenodo.org/badge/580868123.svg)](https://doi.org/10.5281/zenodo.7565700)   | N/A                                                                                             |
+| [fermo_core](https://github.com/fermo-metabolomics/fermo_core)            | Processing backend | [![DOI](https://zenodo.org/badge/671395100.svg)](https://doi.org/10.5281/zenodo.11259126)  | [![PyPI version](https://badge.fury.io/py/fermo-core.svg)](https://badge.fury.io/py/fermo-core) |
 | [fermo_docs](https://github.com/fermo-metabolomics/fermo_docs) | Documentation      | [![DOI](https://zenodo.org/badge/802900204.svg)](https://doi.org/10.5281/zenodo.15149101)  | N/A                                                                                             |
 
 
