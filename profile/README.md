@@ -17,7 +17,7 @@ These guidelines apply to all repositories governed by *FERMO* Metabolomics.
 - [👥Discussion](https://github.com/orgs/fermo-metabolomics/discussions): a discussion board for interaction with the project.
 - [📖Documentation](https://fermo-metabolomics.github.io/fermo_docs/): the documentation for *FERMO*
 
-## Repository Content<
+## Repository Content
 
 This page organizes several repositories associated with the *FERMO* project:
 
