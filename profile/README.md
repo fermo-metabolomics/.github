@@ -1,3 +1,5 @@
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11182/badge)](https://www.bestpractices.dev/projects/11182)
+
 # Overview
 
 Welcome to the *FERMO* Metabolomics Organization!
