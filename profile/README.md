@@ -29,5 +29,7 @@ This page organizes several repositories associated with the *FERMO* project:
 | [fermo_docs](https://github.com/fermo-metabolomics/fermo_docs) | Documentation   | [MIT](https://github.com/fermo-metabolomics/fermo_docs/blob/main/LICENSE)   | [![DOI](https://zenodo.org/badge/802900204.svg)](https://doi.org/10.5281/zenodo.15149101)  | N/A                                                                                             |
 | [fermo_ms](https://github.com/fermo-metabolomics/fermo_ms)  | Manuscript files | [MIT](https://github.com/fermo-metabolomics/fermo_ms/blob/main/LICENSE)  | [![DOI](https://zenodo.org/badge/951147494.svg)](https://doi.org/10.5281/zenodo.15203137) | N/A |
 
+## Reporting Vulnerabilities
 
+If you encounter any vulnerabilities that you encounter, feel free to contact one of the developers (e.g. [Mitja M. Zdouc](mailto:zdoucmm@gmail.com)
 
