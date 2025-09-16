@@ -31,5 +31,5 @@ This page organizes several repositories associated with the *FERMO* project:
 
 ## Reporting Vulnerabilities
 
-If you encounter any vulnerabilities that you encounter, feel free to contact one of the developers (e.g. [Mitja M. Zdouc](mailto:zdoucmm@gmail.com)
+If you encounter any vulnerabilities that you encounter, feel free to contact one of the developers (e.g. [Mitja M. Zdouc](mailto:zdoucmm@gmail.com))
 
