@@ -22,12 +22,12 @@ These guidelines apply to all repositories governed by *FERMO* Metabolomics.
 This page organizes several repositories associated with the *FERMO* project:
 
 
-| Name                                                           | Description        | Zenodo Badge                                                                               | PyPI Badge                                                                                      |
+| Name                                                           | Description | License        | Zenodo Badge                                                                               | PyPI Badge                                                                                      |
 |----------------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| [*FERMO*](https://github.com/fermo-metabolomics/fermo)                    | GUI                | [![DOI](https://zenodo.org/badge/580868123.svg)](https://doi.org/10.5281/zenodo.7565700)   | N/A                                                                                             |
-| [fermo_core](https://github.com/fermo-metabolomics/fermo_core)            | Processing backend | [![DOI](https://zenodo.org/badge/671395100.svg)](https://doi.org/10.5281/zenodo.11259126)  | [![PyPI version](https://badge.fury.io/py/fermo-core.svg)](https://badge.fury.io/py/fermo-core) |
-| [fermo_docs](https://github.com/fermo-metabolomics/fermo_docs) | Documentation      | [![DOI](https://zenodo.org/badge/802900204.svg)](https://doi.org/10.5281/zenodo.15149101)  | N/A                                                                                             |
-| [fermo_ms](https://github.com/fermo-metabolomics/fermo_ms)  | Manuscript files   | [![DOI](https://zenodo.org/badge/951147494.svg)](https://doi.org/10.5281/zenodo.15203137) | N/A |
+| [*FERMO*](https://github.com/fermo-metabolomics/fermo)                    | GUI    | [MIT](https://github.com/fermo-metabolomics/FERMO/blob/main/LICENSE.md)            | [![DOI](https://zenodo.org/badge/580868123.svg)](https://doi.org/10.5281/zenodo.7565700)   | N/A                                                                                             |
+| [fermo_core](https://github.com/fermo-metabolomics/fermo_core)            | [MIT](https://github.com/fermo-metabolomics/fermo_core/blob/main/LICENSE) |Processing backend | [![DOI](https://zenodo.org/badge/671395100.svg)](https://doi.org/10.5281/zenodo.11259126)  | [![PyPI version](https://badge.fury.io/py/fermo-core.svg)](https://badge.fury.io/py/fermo-core) |
+| [fermo_docs](https://github.com/fermo-metabolomics/fermo_docs) | Documentation   | [MIT](https://github.com/fermo-metabolomics/fermo_docs/blob/main/LICENSE)   | [![DOI](https://zenodo.org/badge/802900204.svg)](https://doi.org/10.5281/zenodo.15149101)  | N/A                                                                                             |
+| [fermo_ms](https://github.com/fermo-metabolomics/fermo_ms)  | Manuscript files | [MIT](https://github.com/fermo-metabolomics/fermo_ms/blob/main/LICENSE)  | [![DOI](https://zenodo.org/badge/951147494.svg)](https://doi.org/10.5281/zenodo.15203137) | N/A |
 
 
 
